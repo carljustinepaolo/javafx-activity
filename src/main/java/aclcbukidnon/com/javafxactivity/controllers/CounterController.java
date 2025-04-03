@@ -19,7 +19,5 @@ public class CounterController {
 
     }
 
-    @FXML
-    protected void onMinusClick()
 
 }
